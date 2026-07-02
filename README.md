@@ -1,3 +1,3 @@
 # Repository for the Web Site Competition
 
-A collaborative effort by team members for development and practice related to the web site competition team.
+A collaborative effort by team members for development and practice related to the web site competition team. Have fun and work together!
